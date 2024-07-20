@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006284132254",
+    "project_id": "smarty-party-a5ee0",
+    "storage_bucket": "smarty-party-a5ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006284132254:android:7ac078004630c665fad08f",
+        "android_client_info": {
+          "package_name": "com.shk.smartyparty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3NhmtEoYcEohnZ7rkAYF6nAo47VafZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
