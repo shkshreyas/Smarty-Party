@@ -10,7 +10,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="160dp"
+        android:layout_height="150dp"
         android:src="@drawable/main_image" />
 
     <LinearLayout
@@ -25,7 +25,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Smarty Party"
+            android:text="Smarty"
             android:gravity="center"
             android:textSize="34sp"
             android:letterSpacing="0.1"
@@ -38,7 +38,7 @@
             android:text="Where Knowledge Meets Fun"
             android:gravity="center"
             android:textSize="18sp"
-            android:layout_margin="10dp"
+            android:layout_margin="7dp"
             android:textColor="@color/white"
             android:textStyle="bold"/>
 
@@ -48,7 +48,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="All items"
+        android:text="All Quizzes"
         android:layout_marginTop="16dp"
         android:layout_marginStart="4dp"
         android:textSize="20sp"

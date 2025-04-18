@@ -3,7 +3,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="gray">#F4F4F4</color>
-    <color name="orange">#FF8F00</color>
-    <color name="blue">#1565C0</color>
+    <color name="orange">#FB8B00</color>
+    <color name="blue">#55a891</color>
+    <color name="background">#FAFAFA</color>
+    <color name="primary">#1976D2</color>
+    <color name="success">#4CAF50</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
 
 </resources>
